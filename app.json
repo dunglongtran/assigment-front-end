@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "assigment-front-end",
+    "description": "No description",
+    "slug": "snack-991b8566-ae1d-4b9f-b252-47d3b52cd2b4",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "loading": {
+      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "org.wolfgame.dunglongtran"
+    },
+    "android": {
+      "package": "org.wolfgame.dunglongtran"
+    }
+  }
+}
